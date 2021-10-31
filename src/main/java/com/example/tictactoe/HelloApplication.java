@@ -17,6 +17,7 @@ public class HelloApplication extends Application {
         stage.show();
     }
 //Проверка 1
+    //Проверка 2
     public static void main(String[] args) {
         launch();
     }
