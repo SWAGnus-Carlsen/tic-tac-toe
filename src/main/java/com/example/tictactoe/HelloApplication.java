@@ -20,6 +20,7 @@ public class HelloApplication extends Application {
 
 //Проверка 1
     //Проверка 2
+    //Проверка 3
     public static void main(String[] args) {
         launch();
     }
